@@ -16,7 +16,7 @@ echo "This is another line" >> file1
 git diff
 
 # commit -a commits all modified files
-git commit -a -m "Some new changes"]
+git commit -a -m "Some new changes"
 
 # removing files
 touch garbage
