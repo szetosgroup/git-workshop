@@ -4,3 +4,4 @@
 ./clone-pull.sh
 ./branch-merge.sh
 ./merge-conflicts.sh
+pull-request.sh
