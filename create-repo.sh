@@ -9,14 +9,14 @@ echo "This is a line" >> file1
 git status
 git add file1
 git status
-git commit -m "Add README"
+git commit -m "Add Some File"
 git log
 
 echo "This is another line" >> file1
 git diff
 
 # commit -a commits all modified files
-git commit -a -m "Some new changes"
+git commit -a -m "Some New Changes"
 
 # removing files
 touch garbage
