@@ -19,7 +19,7 @@ cd junk-directory
 echo "My own cool stuff you should pull" >> dimsumlabs_ftw
 git add ./
 git commit -m "My awesome feature is working"
-git push
+git push origin my-feature
 
 # now go to https://github.com/your_username/git-workshop
 # click on the "Pull Request" button just below the top bar (not the 
